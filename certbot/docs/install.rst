@@ -197,7 +197,7 @@ Optionally to install the Certbot Apache plugin, you can use:
 
 .. code-block:: shell
 
-    sudo dnf install certbot python2-certbot-apache
+    sudo dnf install certbot python2-certbot-apache ; ## or python3-certbot-apache
 
 **FreeBSD**
 
